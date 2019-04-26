@@ -2,8 +2,10 @@
 
 [![npm version](https://badge.fury.io/js/flag-icon-css.svg)](https://badge.fury.io/js/flag-icon-css)
 
-A collection of all country flags in SVG — plus the CSS for easier integration.
-See the [demo](http://lipis.github.io/flag-icon-css/).
+A collection of language flags in SVG — plus the CSS for easier integration.
+This is different from the initial project in that we try to represent *language* instead of *countries* with the flags.
+
+See the original [demo](http://lipis.github.io/flag-icon-css/).
 
 ## Install
 
